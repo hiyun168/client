@@ -3,14 +3,14 @@
     "windows": {
       "open-url": "",
       "latest-version": "2.2.0",
-      "download-url": "https://github.com/hiyun168/client/tree/master/download/azclient.exe",
+      "download-url": "https://raw.githubusercontent.com/hiyun168/client/master/download/azclient.exe",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
       "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "download-url": "http://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
       "changelog": "This is an example changelog for Mac OS X. Go on...",
       "mandatory": true
     }

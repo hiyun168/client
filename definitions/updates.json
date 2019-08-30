@@ -2,7 +2,7 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.2.0",
+      "latest-version": "2.2.1",
       "download-url": "https://raw.githubusercontent.com/hiyun168/client/master/download/azclient.exe",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true

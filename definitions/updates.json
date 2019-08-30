@@ -1,18 +1,18 @@
 {
-  "updates": {
-    "windows": {
-      "open-url": "",
-      "latest-version": "2.2.1",
-      "download-url": "https://raw.githubusercontent.com/hiyun168/client/master/download/azclient.exe",
-      "changelog": "This is an example changelog for Windows. Go on...",
-      "mandatory": true
-    },
-    "osx": {
-      "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "http://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Mac OS X. Go on...",
-      "mandatory": true
-    }
-  }
+	"updates": {
+		"windows": {
+			"open-url": "",
+			"latest-version": "2.2.1",
+			"download-url": "https://raw.githubusercontent.com/hiyun168/client/master/download/azclient.exe",
+			"changelog": "1、优化警报查询的黑名单。\n2、获取激光地图改成http并兼容旧方式。\n3、优化base64",
+			"mandatory": true
+		},
+		"osx": {
+			"open-url": "",
+			"latest-version": "1.0",
+			"download-url": "http://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+			"changelog": "This is an example changelog for Mac OS X. Go on...",
+			"mandatory": true
+		}
+	}
 }
